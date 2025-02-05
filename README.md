@@ -34,8 +34,8 @@ spreadsheet-automation-python/
 ✔ **Auto-Generated Bar Chart**  
 _(See screenshot below)_  
 
-![Spreadsheet Output](path/to/your/screenshot.png)  
-*(Replace `path/to/your/screenshot.png` with the actual image path after uploading it to your repository.)*
+![Spreadsheet Output](https://github.com/Pouria-Samadi/spreadsheet-automation-python/issues/1#issue-2833316784)  
+
 
 ## 📥 Installation & Usage
 ### 🔧 Prerequisites
