@@ -29,13 +29,6 @@ spreadsheet-automation-python/
 - `openpyxl` (for reading/writing Excel files)
 - `BarChart` from `openpyxl.chart` (for visualization)
 
-## 📸 Example Output
-✔ **Updated Prices Column**  
-✔ **Auto-Generated Bar Chart**  
-_(See screenshot below)_  
-
-![Spreadsheet Output](https://github.com/Pouria-Samadi/spreadsheet-automation-python/issues/1#issue-2833316784)  
-
 
 ## 📥 Installation & Usage
 ### 🔧 Prerequisites
